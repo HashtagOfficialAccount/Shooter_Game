@@ -52,3 +52,4 @@ for i in range(30):
 
 turtle.onscreenclick(dummyclick,1)  
 print("Your total score is",sum,"Well done!")
+bob = input()
